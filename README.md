@@ -109,6 +109,7 @@ Model is trained for several epocs and varied learning rate.'accuracy' meric is 
 
 ---
 1/1 [==============================] - 1s 560ms/step - loss: 0.2853 - accuracy: 0.9286
+
 1/1 [==============================] - 0s 278ms/step - loss: 0.4509 - accuracy: 0.8214
 ([0.28528881072998047, 0.9285714030265808],
  [0.45091989636421204, 0.8214285969734192])
